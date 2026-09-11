@@ -1351,7 +1351,7 @@ https://github.com/madheshw265-lang/EmotionRecognition
 
 # 👨‍💻 Author
 
-## Madhesh Waran
+## Madhesh G
 
 **Computer Science / Technology Student**
 
@@ -1362,7 +1362,6 @@ Interested in:
 - Computer Vision
 - Deep Learning
 - Software Development
-- Hackathons
 - Real-Time AI Applications
 
 ### GitHub
